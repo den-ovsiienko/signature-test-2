@@ -28,6 +28,11 @@
   color: #61dafb;
 }
 
+.textContent {
+  transform: translate(0, -50%) !important;
+  top: 50% !important
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
